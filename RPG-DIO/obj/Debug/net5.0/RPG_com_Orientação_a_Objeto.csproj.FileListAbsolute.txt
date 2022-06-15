@@ -1,0 +1,16 @@
+D:\Worksapce\RPG_com_Orientação_a_Objeto\bin\Debug\net5.0\RPG_com_Orientação_a_Objeto.exe
+D:\Worksapce\RPG_com_Orientação_a_Objeto\bin\Debug\net5.0\RPG_com_Orientação_a_Objeto.deps.json
+D:\Worksapce\RPG_com_Orientação_a_Objeto\bin\Debug\net5.0\RPG_com_Orientação_a_Objeto.runtimeconfig.json
+D:\Worksapce\RPG_com_Orientação_a_Objeto\bin\Debug\net5.0\RPG_com_Orientação_a_Objeto.runtimeconfig.dev.json
+D:\Worksapce\RPG_com_Orientação_a_Objeto\bin\Debug\net5.0\RPG_com_Orientação_a_Objeto.dll
+D:\Worksapce\RPG_com_Orientação_a_Objeto\bin\Debug\net5.0\ref\RPG_com_Orientação_a_Objeto.dll
+D:\Worksapce\RPG_com_Orientação_a_Objeto\bin\Debug\net5.0\RPG_com_Orientação_a_Objeto.pdb
+D:\Worksapce\RPG_com_Orientação_a_Objeto\obj\Debug\net5.0\RPG_com_Orientação_a_Objeto.csproj.AssemblyReference.cache
+D:\Worksapce\RPG_com_Orientação_a_Objeto\obj\Debug\net5.0\RPG_com_Orientação_a_Objeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Worksapce\RPG_com_Orientação_a_Objeto\obj\Debug\net5.0\RPG_com_Orientação_a_Objeto.AssemblyInfoInputs.cache
+D:\Worksapce\RPG_com_Orientação_a_Objeto\obj\Debug\net5.0\RPG_com_Orientação_a_Objeto.AssemblyInfo.cs
+D:\Worksapce\RPG_com_Orientação_a_Objeto\obj\Debug\net5.0\RPG_com_Orientação_a_Objeto.csproj.CoreCompileInputs.cache
+D:\Worksapce\RPG_com_Orientação_a_Objeto\obj\Debug\net5.0\RPG_com_Orientação_a_Objeto.dll
+D:\Worksapce\RPG_com_Orientação_a_Objeto\obj\Debug\net5.0\ref\RPG_com_Orientação_a_Objeto.dll
+D:\Worksapce\RPG_com_Orientação_a_Objeto\obj\Debug\net5.0\RPG_com_Orientação_a_Objeto.pdb
+D:\Worksapce\RPG_com_Orientação_a_Objeto\obj\Debug\net5.0\RPG_com_Orientação_a_Objeto.genruntimeconfig.cache
